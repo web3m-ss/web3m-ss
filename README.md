@@ -1,5 +1,5 @@
 # About Me:
-Hi you can call me web<br>I've been coding for 5 months<br>I loved ML & Backed
+Hi you can call me web<br>I loved ML & Backed
 
 
 # Tech Stack:
